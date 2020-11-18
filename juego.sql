@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 06-10-2020 a las 05:02:56
--- Versión del servidor: 10.4.14-MariaDB
--- Versión de PHP: 7.4.9
+-- Tiempo de generación: 18-11-2020 a las 18:30:56
+-- Versión del servidor: 10.4.11-MariaDB
+-- Versión de PHP: 7.4.6
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -53,7 +53,7 @@ INSERT INTO `imagenes` (`id`, `nombre`, `letra`) VALUES
 (13, 'lupa', 'l'),
 (14, 'llave', 'll'),
 (15, 'manzana', 'm'),
-(16, 'niño', 'ñ'),
+(16, 'ñandu', 'ñ'),
 (17, 'oso', 'o'),
 (18, 'pelota', 'p'),
 (19, 'queso', 'q'),
