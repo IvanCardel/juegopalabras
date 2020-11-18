@@ -1,0 +1,183 @@
+.navP {
+    text-decoration: none;
+    background-color: #ffffff;
+    color: blue;
+    font-size: 1.1rem;
+}
+
+.navP:hover {
+    text-decoration: none;
+    color: blue;
+    font-size: 17px;
+}
+
+#image {
+    width: 35%
+}
+
+#but {
+    margin: 10px;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url("https://img.freepik.com/vector-gratis/abstact-futurista_23-2148392654.jpg?size=626&ext=jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.modalLogin {
+    background-color: #000000;
+}
+
+.colorFoo2 {
+    background-color: #304ffe;
+}
+
+.fooA {
+    text-decoration: none;
+    color: blue;
+}
+
+.fooA:hover {
+    text-decoration: none;
+    color: blue;
+    font-size: 19px;
+}
+
+.foo2 {
+    background-color: #1a237e;
+    opacity: .8;
+}
+
+.linea {
+    color: lightsteelblue;
+    border: .2px dashed;
+}
+
+.color {
+    background-color: #f5f5f5;
+}
+
+.image-log {
+    width: 300px;
+    height: auto;
+}
+
+.img {
+    text-align: center;
+}
+
+.img2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.ti {
+    font-style: inherit;
+    font-size: 5rem;
+}
+
+.bb {
+    background-color: #4dd0e1;
+    border-radius: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.bb2 {
+    background-color: #b2ff59;
+    border-radius: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.bb3 {
+    background-color: #ffcc80;
+    border-radius: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.ta {
+    background-color: #e0f7fa;
+    border-radius: 2rem;
+}
+
+.nom {
+    border-style: groove;
+    background-color: transparent;
+    border-radius: 2rem;
+}
+
+.letra {
+    font-size: 1.3rem;
+    font-style: inherit;
+}
+
+.carini {
+    border-radius: .5rem;
+}
+
+.bgc {
+    background-color: #1a237e;
+}
+
+.t {
+    color: blue;
+}
+
+.tt {
+    font-size: 8rem;
+    font-style: italic;
+    opacity: .8;
+    text-align: center;
+    color: ivory;
+}
+
+
+/* Aquí van los estilos del formulario pre registro*/
+
+.fondo {
+    background-color: aquamarine;
+}
+
+.titulo {
+    font-size: 5rem;
+    font-style: inherit;
+    text-align: center;
+}
+
+.letrasNegras {
+    font-weight: bold;
+}
+
+span.error {
+    color: red;
+    font-size: 0.8em;
+}
+
+.fondo {
+    background-color: aquamarine;
+}
+
+.titulo {
+    font-size: 5rem;
+    font-style: inherit;
+    text-align: center;
+}
+
+.letrasNegras {
+    font-weight: bold;
+}
+
+span.error {
+    color: red;
+    font-size: 0.8em;
+}

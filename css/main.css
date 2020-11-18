@@ -1,0 +1,46 @@
+html{
+	background-color: #FFFFFF;
+	cursor: url("puntero.png"), pointer;
+}
+h1{
+	text-align: center;
+	margin-top: 95px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+}
+body{
+	cursor: url("puntero_opt.png"), pointer;
+}
+button {
+
+	text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #1883ba;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    width: 250px;
+}
+.btn-salir
+{
+	
+	text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #1883ba;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    width: 250px;
+}
+
+.div-btn{
+	text-align: center;
+}

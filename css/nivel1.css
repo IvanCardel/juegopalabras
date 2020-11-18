@@ -1,0 +1,56 @@
+html {
+    background-color: #FFFFFF;
+    cursor: url("puntero.png"), pointer;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+}
+
+body {
+    cursor: url("puntero_opt.png"), pointer;
+}
+
+button {
+    background-color: #6bd124;
+    color: black;
+    border: 2px solid #6bd124;
+    /* Green */
+    border-radius: 4px;
+    padding: 10px 24px;
+    font-size: 20px;
+    cursor: url("puntero.png"), pointer;
+}
+
+#tabla {
+    margin-left: 150px;
+    align-items: center;
+}
+
+table {
+    margin-top: 180px;
+    text-align: center;
+}
+
+#imagen {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+img {
+    margin-top: 80px;
+}
+
+#btn-control {
+    margin-top: 10px;
+}
+
+#cadena {
+    font-size: 30px;
+    margin-right: 200px;
+    align-items: center;
+}
